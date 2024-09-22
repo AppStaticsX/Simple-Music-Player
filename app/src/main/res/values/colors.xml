@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#888888</color>
+    <color name="seek_bar_background">#ababab</color>
+    <color name="seek_bar_progress">#49454F</color>
+    <color name="seek_bar_secondary_progress">#3399CC</color>
+    <color name="positive_button_color">#FF49454F</color>
+    <color name="negative_button_color">#FFFF0000</color>
+</resources>

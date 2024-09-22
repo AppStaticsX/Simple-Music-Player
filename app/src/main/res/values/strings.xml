@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musico</string>
+    <string name="version_name">1.2-Alpha(Build-060)</string>
+    <string name="developer">Developer: <b>AppStaticsX</b></string>
+    <string name="android_studio">Made ❤️ with <b>Android Studio</b></string>
+    <string name="github_weblink"><b>https://github.com/AppStaticsX</b></string>
+</resources>

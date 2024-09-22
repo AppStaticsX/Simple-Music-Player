@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/menu_background"
+    android:orientation="vertical"
+    android:outlineAmbientShadowColor="@color/black"
+    android:elevation="5dp">
+
+    <TextView
+        android:id="@+id/item_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="10dp"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/round_info_24"
+        android:text="About"
+        android:textColor="#49454F" />
+
+    <TextView
+        android:id="@+id/item_settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="10dp"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/round_settings_24"
+        android:text="Settings"
+        android:textColor="#49454F" />
+
+    <TextView
+        android:id="@+id/item_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="10dp"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/round_storage_24"
+        android:text="Rescan Media"
+        android:textColor="#49454F" />
+</LinearLayout>
